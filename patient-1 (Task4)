@@ -1,0 +1,38 @@
+{
+    "resourceType": <   >,
+    "gender": <   >,
+    "birthDate": <   >,
+    "name": [
+        {
+            "given": [
+                <   >
+            ],
+            "family": <   >
+        }
+    ],
+    "identifier": [
+        {
+            "system": <   >,
+            "value": <   >
+        },
+        {
+            "system": <   >,
+            "value": <   >
+        }
+    ],
+    "extension": [
+        {
+            "url": <   >,
+            "valueCode": <   >
+        }
+    ],
+    "telecom": [
+        {
+            "system": <   >,
+            "value": <   >
+        }
+    ],
+    "text": {
+        "div": <   >
+    }
+}
